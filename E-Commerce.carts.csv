@@ -1,0 +1,2 @@
+_id,user,cartItems[0].product,cartItems[0].quantity,cartItems[0].price,cartItems[0]._id,totalPrice,createdAt,updatedAt,__v
+66b20340c3cf86fc925a6c38,66af305fc5a261bc9ceeb834,66a62c08f133188fde5e592f,1,54545451,66b20340c3cf86fc925a6c39,54545451,2024-08-06T11:04:32.600Z,2024-08-06T11:04:32.600Z,0
